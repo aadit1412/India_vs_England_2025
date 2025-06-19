@@ -23,7 +23,7 @@ By combining data engineering, simulation modeling, and visual storytelling, the
 ## **What's Included**
 
 - `india_vs_eng.ipynb`: Final Jupyter Notebook with analysis, visualizations, and commentary  
-- `/india_vs_eng.py`: Full end-to-end Python script with data wrangling, metric engineering, simulation logic, and visualizations
+- `india_vs_eng.py`: Full end-to-end Python script with data wrangling, metric engineering, simulation logic, and visualizations
 - `/Images`: Output plots and charts used for communication and storytelling  
 - `/data`: Cleaned and labeled CSV files for each batter  
 - `README.md`: Project documentation and methodological overview
